@@ -1,4 +1,4 @@
-source /Users/liyicky/Rli/Scripts/Prompt/git-prompt.sh
+source git-prompt.sh
 
 #Prompt and prompt colors
 # 30m - Black
