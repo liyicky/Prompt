@@ -1,4 +1,5 @@
-source git-prompt.sh
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source $DIR/git-prompt.sh 
 
 #Prompt and prompt colors
 # 30m - Black
